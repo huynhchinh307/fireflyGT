@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fireflyGT", "fireflyGT\fireflyGT.csproj", "{4E2BBFA5-61CC-4A12-9D1E-CE86AC6CE46E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E2BBFA5-61CC-4A12-9D1E-CE86AC6CE46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E2BBFA5-61CC-4A12-9D1E-CE86AC6CE46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E2BBFA5-61CC-4A12-9D1E-CE86AC6CE46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E2BBFA5-61CC-4A12-9D1E-CE86AC6CE46E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4460820-6B12-4172-9913-A65A7DC97205}
+	EndGlobalSection
+EndGlobal
