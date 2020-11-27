@@ -10,6 +10,12 @@ namespace fireflyGT
     {
         static void Main(string[] args)
         {
+            foreach (var a in ADBHelper.GetMemus())
+            {
+                Console.WriteLine(a.name+" - "+a.status);
+            }
+            ADBHelper.ScreenShoot("31");
+            Console.ReadKey();
         }
     }
 }
