@@ -86,6 +86,7 @@
         KEYCODE_PLUS = 81,
         KEYCODE_MENU = 82,
         KEYCODE_NOTIFICATION = 83,
-        KEYCODE_APP_SWITCH = 187
+        KEYCODE_APP_SWITCH = 187,
+        KEYCODE_PAST = 279
     }
 }

@@ -39,6 +39,9 @@
     <Reference Include="Emgu.CV.World">
       <HintPath>..\..\Tata-Tool\Tata Tool\bin\x64\Debug\Emgu.CV.World.dll</HintPath>
     </Reference>
+    <Reference Include="KAutoHelper">
+      <HintPath>..\..\..\..\Downloads\ADB Capture\KAutoHelper.dll</HintPath>
+    </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
